@@ -1,0 +1,19 @@
+{
+  "name": "char-in-string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valievdev/char-in-string.git"
+  },
+  "author": "Azat Valiev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valievdev/char-in-string/issues"
+  },
+  "homepage": "https://github.com/valievdev/char-in-string#readme"
+}
