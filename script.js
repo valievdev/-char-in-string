@@ -12,10 +12,11 @@ const testChar = "o";
 // This function should accept a string (a) 
 // and a character (b) as a parameter
 // and return the number of occurrences
-const countOccurencesInString = (a, b) => {
+const countOccurencesInString = (a, b) => a.split(b).length - 1;
 
-	// return the number of occurrences
-}
+// const countOccurencesInString = (a, b) => {
+// 	return a.split(b).length - 1
+// }
 
 // Don't touch this either
 module.exports = countOccurencesInString;
