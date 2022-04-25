@@ -13,7 +13,6 @@ const testChar = "o";
 // and a character (b) as a parameter
 // and return the number of occurrences
 const countOccurencesInString = (a, b) => {
-	return a.split(b).length - 1
 
 	// return the number of occurrences
 }
